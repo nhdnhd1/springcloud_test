@@ -1,4 +1,4 @@
-httpÇëÇóµØÖ·ºÍ×ÊÔ´ÎÄ¼şÓ³ÉäÈçÏÂ:
+httpè¯·æ±‚åœ°å€å’Œèµ„æºæ–‡ä»¶æ˜ å°„å¦‚ä¸‹
 
 /{application}/{profile}[/{label}]
 /{application}-{profile}.yml
